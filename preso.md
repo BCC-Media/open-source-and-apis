@@ -56,6 +56,7 @@ Essentially `OPEN == PUBLIC` in this case.
 * BCC has that cool system for doing X. I wonder if we could do the same?
 * Sharing of ideas
 * I want build scoreboard for my local church, can I get XYZ?
+* I want to build a bot that automatically turns on my TV, and dims the lights when BTV meeting starts. Do you have an API I can use?
 
 ---
 
